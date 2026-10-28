@@ -103,11 +103,11 @@ university-management-erd/
 ├── images/
 │   └── erd.png                  # Screenshot of the final ERD
 ├── diagrams/
-│   └── Final_ERD_project.drawio # Editable source file
-├── docs/
-│   └── ERD_Mapping.docx         # Relational mapping document
+│   └── ERD_project_Diagram.drawio # Editable source file
+├── mapping/
+│   └── ERD_Mapping.pdf         # Relational mapping document
 └── presentation/
-    ├── Presentation.pptx        # Project slides
+    └── Presentation.pptx        # Project slides
     └── Presentation.pdf         # PDF version (viewable on GitHub)
 ```
 
