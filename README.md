@@ -67,7 +67,7 @@ Bold attributes are primary keys.
 
 ## ERD to Relational Mapping
 
-PK = Primary Key, FK = Foreign Key. The same mapping is in [`docs/ERD_Mapping.docx`](docs/ERD_Mapping.docx).
+PK = Primary Key, FK = Foreign Key. The same mapping is in [`mapping/ERD MAPPING.pdf`](mapping/ERD_Mapping.pdf).
 
 | Table | Columns |
 |---|---|
