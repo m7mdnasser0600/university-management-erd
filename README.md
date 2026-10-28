@@ -12,7 +12,6 @@ A database design project that models a centralized **University Management Syst
 - [ERD to Relational Mapping](#erd-to-relational-mapping)
 - [Repository Structure](#repository-structure)
 - [How to View or Edit the ERD](#how-to-view-or-edit-the-erd)
-- [Team](#team)
 
 ## Project Overview
 The university needs one system to manage:
