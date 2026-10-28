@@ -101,14 +101,14 @@ PK = Primary Key, FK = Foreign Key. The same mapping is in [`mapping/ERD MAPPING
 university-management-erd/
 ├── README.md
 ├── images/
-│   └── erd.png                  # Screenshot of the final ERD
+│   └── erd.png                          # Screenshot of the final ERD
 ├── diagrams/
-│   └── ERD_project_Diagram.drawio # Editable source file
+│   └── ERD_project_Diagram.drawio       # Editable source file
 ├── mapping/
-│   └── ERD_Mapping.pdf         # Relational mapping document
+│   └── ERD_Mapping.pdf                  # Relational mapping document
 └── presentation/
-    └── Presentation.pptx        # Project slides
-    └── Presentation.pdf         # PDF version (viewable on GitHub)
+    └── Project Presentation.pptx        # Project slides
+    └── Project Presentation.pdf         # PDF version (viewable on GitHub)
 ```
 
 ## How to View or Edit the ERD
