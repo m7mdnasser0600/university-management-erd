@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34069035/README.md)
 # University Management System: ERD & Relational Mapping
 
 A database design project that models a centralized **University Management System**. It covers the Entity-Relationship Diagram (ERD), the mapping of the ERD to relational schemas, and a presentation of the design.
