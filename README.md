@@ -2,7 +2,7 @@
 
 A database design project that models a centralized **University Management System**. It covers the Entity-Relationship Diagram (ERD), the mapping of the ERD to relational schemas, and a presentation of the design.
 
-![Final ERD](images/erd.png)
+<img width="1715" height="1020" alt="ERD" src="https://github.com/user-attachments/assets/e6c240b4-9a57-43ee-b277-69a41b5cee49" />
 
 ## Table of Contents
 - [Project Overview](#project-overview)
