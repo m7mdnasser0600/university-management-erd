@@ -113,13 +113,7 @@ university-management-erd/
 
 ## How to View or Edit the ERD
 1. Go to [app.diagrams.net](https://app.diagrams.net).
-2. Choose **Open Existing Diagram** and select `diagrams/Final_ERD_project.drawio`.
+2. Choose **Open Existing Diagram** and select `diagrams/ERD_Project_Diagram.drawio`.
 3. Edit it and export as PNG or PDF if needed.
 
 You can also open the `.drawio` file directly with the draw.io extension in VS Code.
-
-## Team
-- Mahmoud Khaled
-- Ashraf Mohamed
-- Abdel Rahman Mohamed
-- Mohamed AbdEl-Nasser
